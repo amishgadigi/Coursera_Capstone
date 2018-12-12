@@ -1,0 +1,245 @@
+,Neighbourhood,City,State,Country,Latitude,Longitude
+0,Cantonment area,Bengaluru,KA,India,,
+1,Domlur,Bengaluru,KA,India,12.9624669,77.6381958
+2,Indiranagar,Bengaluru,KA,India,12.9732913,77.6404672
+3,Jeevanbheemanagar,Bengaluru,KA,India,,
+4,Malleswaram,Bengaluru,KA,India,13.0027353,77.5703253
+5,Pete area,Bengaluru,KA,India,,
+6,Rajajinagar,Bengaluru,KA,India,12.9882338,77.554883
+7,Sadashivanagar,Bengaluru,KA,India,13.0077079,77.5795893
+8,Seshadripuram,Bengaluru,KA,India,12.9931876,77.5753419
+9,Shivajinagar,Bengaluru,KA,India,12.9826133,77.6069272
+10,Ulsoor,Bengaluru,KA,India,12.9778793,77.6246697
+11,Vasanth Nagar,Bengaluru,KA,India,12.992948,77.5951924
+12,Bellandur,Bengaluru,KA,India,12.9361208,77.6666171141339
+13,CV Raman Nagar,Bengaluru,KA,India,,
+14,Hoodi,Bengaluru,KA,India,12.9919033,77.7162015
+15,Krishnarajapuram,Bengaluru,KA,India,13.00806,77.694926
+16,Mahadevapura,Bengaluru,KA,India,12.9972299,77.6907581
+17,Marathahalli,Bengaluru,KA,India,12.9564208,77.6949578
+18,Varthur,Bengaluru,KA,India,timeout,timeout
+19,Whitefield,Bengaluru,KA,India,12.9696365,77.7497448
+20,Banaswadi,Bengaluru,KA,India,13.0058357,77.6281321
+21,HBR Layout,Bengaluru,KA,India,13.0343603,77.628984
+22,Horamavu,Bengaluru,KA,India,13.0273312,77.6601508
+23,Kammanahalli,Bengaluru,KA,India,13.00796435,77.6366701521896
+24,Lingarajapuram,Bengaluru,KA,India,13.0117678,77.6278288
+25,Ramamurthy Nagar,Bengaluru,KA,India,13.0120218,77.6777817
+26,Hebbal,Bengaluru,KA,India,13.0382184,77.5919
+27,Jalahalli,Bengaluru,KA,India,13.0464531,77.5483803
+28,Mathikere,Bengaluru,KA,India,13.0328884,77.557374
+29,Peenya,Bengaluru,KA,India,13.0329419,77.5273253
+30,R. T. Nagar,Bengaluru,KA,India,13.0227204,77.595715
+31,Vidyaranyapura,Bengaluru,KA,India,13.0766407,77.5577315
+32,Yelahanka,Bengaluru,KA,India,13.0952313,77.5942963
+33,Yeshwanthpur,Bengaluru,KA,India,13.019717,77.55489
+34,Bommanahalli,Bengaluru,KA,India,12.9089453,77.6239038
+35,Bommasandra,Bengaluru,KA,India,12.8162443,77.6916113
+36,BTM Layout,Bengaluru,KA,India,12.9151772,77.6102821
+37,Electronic City,Bengaluru,KA,India,,
+38,HSR Layout,Bengaluru,KA,India,12.9127356,77.6380054
+39,Koramangala,Bengaluru,KA,India,timeout,timeout
+40,Madiwala,Bengaluru,KA,India,12.9201105,77.6206606
+41,Banashankari,Bengaluru,KA,India,12.91538175,77.5736376995009
+42,Basavanagudi,Bengaluru,KA,India,12.9417261,77.5755021
+43,Girinagar,Bengaluru,KA,India,12.9401439,77.5444995
+44,J. P. Nagar,Bengaluru,KA,India,12.9094922,77.5967385573177
+45,Jayanagar,Bengaluru,KA,India,timeout,timeout
+46,Kumaraswamy Layout,Bengaluru,KA,India,12.9068169,77.5635247362134
+47,Padmanabhanagar,Bengaluru,KA,India,12.9181602,77.5576735553506
+48,Uttarahalli,Bengaluru,KA,India,12.9055682,77.5455438
+49,Anjanapura,Bengaluru,KA,India,12.8580811,77.5580713
+50,Arekere,Bengaluru,KA,India,12.87847015,77.6041791138253
+51,Begur,Bengaluru,KA,India,12.8633887,77.613011205039
+52,Gottigere,Bengaluru,KA,India,12.8565317,77.5877237
+53,Hulimavu,Bengaluru,KA,India,12.8773486,77.6028031
+54,Kothnur,Bengaluru,KA,India,12.8742546,77.5837252
+55,Basaveshwaranagar,Bengaluru,KA,India,12.986475,77.5385709
+56,Kamakshipalya,Bengaluru,KA,India,12.9823617,77.5226376
+57,Kengeri,Bengaluru,KA,India,timeout,timeout
+58,Mahalakshmi Layout,Bengaluru,KA,India,13.0118943,77.5438575
+59,Nagarbhavi,Bengaluru,KA,India,12.9651008,77.5078635
+60,Nandini Layout,Bengaluru,KA,India,13.0104064,77.5378032
+61,Nayandahalli,Bengaluru,KA,India,12.943655,77.5268791
+62,Rajarajeshwari Nagar,Bengaluru,KA,India,12.9274278,77.5153722
+63,Vijayanagar,Bengaluru,KA,India,12.9718886,77.5457888388713
+64,Apgujeong,Seoul,Gyeonggi,South Korea,,
+65,Bukchon Hanok Village,Seoul,Gyeonggi,South Korea,,
+66,Cartoon Street,Seoul,Gyeonggi,South Korea,,
+67,COEX Mall,Seoul,Gyeonggi,South Korea,,
+68,Cheongdam-dong,Seoul,Gyeonggi,South Korea,37.52003,127.05635
+69,Daehangno,Seoul,Gyeonggi,South Korea,,
+70,Dongdaemun,Seoul,Gyeonggi,South Korea,,
+71,Gangnam,Seoul,Gyeonggi,South Korea,37.51787265,127.056771901232
+72,Guryong,Seoul,Gyeonggi,South Korea,,
+73,Hongdae,Seoul,Gyeonggi,South Korea,,
+74,Idae,Seoul,Gyeonggi,South Korea,,
+75,Ihwa Mural Village,Seoul,Gyeonggi,South Korea,,
+76,Insadong,Seoul,Gyeonggi,South Korea,,
+77,Itaewon,Seoul,Gyeonggi,South Korea,,
+78,Jongno,Seoul,Gyeonggi,South Korea,37.58752,126.96933
+79,Myeongdong,Seoul,Gyeonggi,South Korea,,
+80,Namdaemun,Seoul,Gyeonggi,South Korea,,
+81,Seorae Village,Seoul,Gyeonggi,South Korea,,
+82,Seoul Station,Seoul,Gyeonggi,South Korea,37.4458008,127.1139984
+83,Sillim,Seoul,Gyeonggi,South Korea,,
+84,Sincheon,Seoul,Gyeonggi,South Korea,,
+85,Sinchon,Seoul,Gyeonggi,South Korea,,
+86,Teheranno,Seoul,Gyeonggi,South Korea,,
+87,Yeouido,Seoul,Gyeonggi,South Korea,,
+88,Downtown Vancouver,Vancouver,BC,Cananda,timeout,timeout
+89,West End,Vancouver,BC,Cananda,49.2841308,-123.1317949
+90,Yaletown,Vancouver,BC,Cananda,49.2763217,-123.1209558
+91,Coal Harbour,Vancouver,BC,Cananda,49.2903749,-123.1292813
+92,Gastown,Vancouver,BC,Cananda,49.2836567,-123.1062358
+93,"Chinatown, Vancouver",Vancouver,BC,Cananda,49.280068,-123.101516
+94,Downtown Eastside,Vancouver,BC,Cananda,49.2823992,-123.0994578
+95,"Chinatown, Vancouver",Vancouver,BC,Cananda,timeout,timeout
+96,Arbutus Ridge,Vancouver,BC,Cananda,49.2409677,-123.1670008
+97,Dunbar-Southlands,Vancouver,BC,Cananda,49.2534601,-123.1850439
+98,False Creek,Vancouver,BC,Cananda,49.2747506,-123.106131172985
+99,Granville Island,Vancouver,BC,Cananda,49.270713,-123.1342858
+100,South Cambie,Vancouver,BC,Cananda,49.2466847,-123.120915
+101,Kerrisdale,Vancouver,BC,Cananda,timeout,timeout
+102,Kitsilano,Vancouver,BC,Cananda,49.2694099,-123.155267
+103,Marpole,Vancouver,BC,Cananda,49.2092233,-123.1361495
+104,Oakridge,Vancouver,BC,Cananda,49.2308288,-123.1311342
+105,Shaughnessy,Vancouver,BC,Cananda,49.2518626,-123.1380226
+106,South Cambie,Vancouver,BC,Cananda,timeout,timeout
+107,West Point Grey,Vancouver,BC,Cananda,49.2644843,-123.1854326
+108,Commercial Drive,Vancouver,BC,Cananda,49.2830942,-123.0703494
+109,Grandview-Woodland,Vancouver,BC,Cananda,49.2705588,-123.0679417
+110,Hastings-Sunrise,Vancouver,BC,Cananda,49.2775935,-123.0439199
+111,Kensington-Cedar Cottage,Vancouver,BC,Cananda,49.2476321,-123.0842067
+112,"Killarney, Vancouver",Vancouver,BC,Cananda,timeout,timeout
+113,Mount Pleasant,Vancouver,BC,Cananda,49.2633296,-123.0965885
+114,Main Street-Riley Park,Vancouver,BC,Cananda,49.2527002,-123.100919
+115,Renfrew-Collingwood,Vancouver,BC,Cananda,49.2420242,-123.0576794
+116,Riley Park-Little Mountain,Vancouver,BC,Cananda,,
+117,Strathcona,Vancouver,BC,Cananda,timeout,timeout
+118,Sunset,Vancouver,BC,Cananda,49.2195929,-123.0902386
+119,Victoria-Fraserview,Vancouver,BC,Cananda,49.2184156,-123.0732871
+120,Dunbar,Vancouver,BC,Cananda,timeout,timeout
+121,Kerrisdale,Vancouver,BC,Cananda,timeout,timeout
+122,Marpole,Vancouver,BC,Cananda,49.2092233,-123.1361495
+123,Sunset-Victoria-Fraserview,Vancouver,BC,Cananda,timeout,timeout
+124,Renfrew-Killarney,Vancouver,BC,Cananda,49.2407222,-123.0376839
+125,Alamo Square,San Francisco,CA,USA,37.7763572,-122.434693570743
+126,Anza Vista,San Francisco,CA,USA,37.7808364,-122.4431489
+127,Ashbury Heights,San Francisco,CA,USA,,
+128,Balboa Park,San Francisco,CA,USA,37.72494875,-122.444804524152
+129,Balboa Terrace,San Francisco,CA,USA,timeout,timeout
+130,Bayview,San Francisco,CA,USA,37.7288889,-122.3925
+131,Belden Place,San Francisco,CA,USA,timeout,timeout
+132,Bernal Heights,San Francisco,CA,USA,37.7410008,-122.4142136
+133,Buena Vista,San Francisco,CA,USA,15.2299528,120.5937464291
+134,Butchertown (Old and New),San Francisco,CA,USA,,
+135,Castro,San Francisco,CA,USA,37.7608561,-122.434957
+136,Cathedral Hill,San Francisco,CA,USA,,
+137,Cayuga Terrace,San Francisco,CA,USA,,
+138,China Basin,San Francisco,CA,USA,37.7763295,-122.39183853009
+139,Chinatown,San Francisco,CA,USA,37.7943011,-122.4063757
+140,Civic Center,San Francisco,CA,USA,37.7795939,-122.4167938
+141,Clarendon Heights,San Francisco,CA,USA,,
+142,Cole Valley,San Francisco,CA,USA,37.7658133,-122.4499624
+143,Corona Heights,San Francisco,CA,USA,37.7648857,-122.4393677
+144,Cow Hollow,San Francisco,CA,USA,37.7972616,-122.4362477
+145,Crocker-Amazon,San Francisco,CA,USA,37.7093777,-122.4385868
+146,Design District,San Francisco,CA,USA,,
+147,Diamond Heights,San Francisco,CA,USA,,
+148,Dogpatch,San Francisco,CA,USA,37.7606977,-122.3892016
+149,Dolores Heights,San Francisco,CA,USA,timeout,timeout
+150,Duboce Triangle,San Francisco,CA,USA,37.7671382,-122.43223
+151,Embarcadero,San Francisco,CA,USA,37.7928637,-122.396912
+152,Eureka Valley,San Francisco,CA,USA,,
+153,Excelsior,San Francisco,CA,USA,37.7217943,-122.4353815
+154,Fillmore,San Francisco,CA,USA,37.7823521,-122.4325782
+155,Financial District,San Francisco,CA,USA,37.7936467,-122.3989378
+156,Financial District South,San Francisco,CA,USA,37.7936467,-122.3989378
+157,Fisherman's Wharf,San Francisco,CA,USA,37.8091669,-122.4165994
+158,Forest Hill,San Francisco,CA,USA,37.7474307,-122.4635825
+159,Forest Knolls,San Francisco,CA,USA,38.0152007,-122.6885967
+160,Glen Park,San Francisco,CA,USA,37.7331078,-122.433784055831
+161,Golden Gate Heights,San Francisco,CA,USA,,
+162,Haight-Ashbury,San Francisco,CA,USA,37.7700148,-122.4469519
+163,Hayes Valley,San Francisco,CA,USA,37.7766853,-122.4229361
+164,Hunters Point,San Francisco,CA,USA,timeout,timeout
+165,India Basin,San Francisco,CA,USA,37.7360416,-122.370526
+166,Ingleside,San Francisco,CA,USA,37.7229872,-122.4530272
+167,Ingleside Terraces,San Francisco,CA,USA,,
+168,Inner Sunset,San Francisco,CA,USA,37.76145,-122.4676432
+169,Irish Hill,San Francisco,CA,USA,,
+170,Islais Creek,San Francisco,CA,USA,,
+171,Jackson Square,San Francisco,CA,USA,,
+172,Japantown,San Francisco,CA,USA,37.7855789,-122.4298089
+173,Jordan Park,San Francisco,CA,USA,timeout,timeout
+174,Laguna Honda,San Francisco,CA,USA,37.74797715,-122.459116752451
+175,Lake Street,San Francisco,CA,USA,37.7857054,-122.48623
+176,Lakeside,San Francisco,CA,USA,37.7307481,-122.4753290062
+177,Lakeshore,San Francisco,CA,USA,37.7330369,-122.490249388431
+178,Laurel Heights,San Francisco,CA,USA,,
+179,Lincoln Manor,San Francisco,CA,USA,,
+180,Little Hollywood,San Francisco,CA,USA,,
+181,Little Russia,San Francisco,CA,USA,,
+182,Little Saigon,San Francisco,CA,USA,37.7843156,-122.4163481
+183,Lone Mountain,San Francisco,CA,USA,37.7790963,-122.4519159
+184,Lower Haight,San Francisco,CA,USA,37.7719261,-122.432479127489
+185,Lower Pacific Heights,San Francisco,CA,USA,37.7857666,-122.4389042
+186,Lower Nob Hill,San Francisco,CA,USA,,
+187,Marina District,San Francisco,CA,USA,37.8029843,-122.4374715
+188,Merced Heights,San Francisco,CA,USA,,
+189,Merced Manor,San Francisco,CA,USA,,
+190,Midtown Terrace,San Francisco,CA,USA,,
+191,Mid-Market,San Francisco,CA,USA,,
+192,Miraloma Park,San Francisco,CA,USA,timeout,timeout
+193,Mission Bay,San Francisco,CA,USA,37.7707742,-122.3911712
+194,Mission District,San Francisco,CA,USA,37.75993,-122.4191376
+195,Mission Dolores,San Francisco,CA,USA,,
+196,Mission Terrace,San Francisco,CA,USA,,
+197,Monterey Heights,San Francisco,CA,USA,,
+198,Mount Davidson,San Francisco,CA,USA,timeout,timeout
+199,Nob Hill,San Francisco,CA,USA,37.7932622,-122.415249
+200,Noe Valley,San Francisco,CA,USA,37.7515906,-122.4320814
+201,North Beach,San Francisco,CA,USA,37.8011749,-122.4090021
+202,North of Panhandle,San Francisco,CA,USA,37.7784081,-122.4425992
+203,Oceanview,San Francisco,CA,USA,timeout,timeout
+204,Outer Mission,San Francisco,CA,USA,,
+205,Outer Sunset,San Francisco,CA,USA,,
+206,Pacific Heights,San Francisco,CA,USA,timeout,timeout
+207,Parkmerced,San Francisco,CA,USA,37.71717615,-122.478947319744
+208,Parkside,San Francisco,CA,USA,37.73836365,-122.483982014401
+209,Parnassus,San Francisco,CA,USA,37.7635131,-122.4578056
+210,Polk Gulch,San Francisco,CA,USA,,
+211,Portola,San Francisco,CA,USA,37.726379,-122.4085514
+212,Portola Place,San Francisco,CA,USA,37.7322912,-122.4142521
+213,Potrero Hill,San Francisco,CA,USA,37.7565834,-122.3991374
+214,Presidio,San Francisco,CA,USA,37.7987456,-122.464588924107
+215,Presidio Heights,San Francisco,CA,USA,timeout,timeout
+216,Richmond District,San Francisco,CA,USA,37.7806432,-122.4725964
+217,Rincon Hill,San Francisco,CA,USA,37.7852068,-122.3919152
+218,Russian Hill,San Francisco,CA,USA,timeout,timeout
+219,Saint Francis Wood,San Francisco,CA,USA,37.7346534,-122.4680272
+220,Sea Cliff,San Francisco,CA,USA,,
+221,Sherwood Forest,San Francisco,CA,USA,,
+222,Silver Terrace,San Francisco,CA,USA,37.7338538,-122.4000282
+223,South Beach,San Francisco,CA,USA,37.7798139,-122.3911499
+224,South End,San Francisco,CA,USA,,
+225,South of Market,San Francisco,CA,USA,timeout,timeout
+226,South Park,San Francisco,CA,USA,37.7815898,-122.393974669315
+227,Sunnydale,San Francisco,CA,USA,37.7094177,-122.4048752
+228,Sunnyside,San Francisco,CA,USA,,
+229,Sunset District,San Francisco,CA,USA,37.7535418,-122.4952495
+230,Telegraph Hill,San Francisco,CA,USA,37.8027297,-122.4058515
+231,Tenderloin,San Francisco,CA,USA,37.7842493,-122.4139933
+232,Treasure Island,San Francisco,CA,USA,timeout,timeout
+233,Twin Peaks,San Francisco,CA,USA,timeout,timeout
+234,Union Square,San Francisco,CA,USA,37.7879363,-122.40751740318
+235,University Mound,San Francisco,CA,USA,,
+236,Upper Market,San Francisco,CA,USA,,
+237,Visitacion Valley,San Francisco,CA,USA,timeout,timeout
+238,Vista del Mar,San Francisco,CA,USA,,
+239,West Portal,San Francisco,CA,USA,37.7412161,-122.465708455646
+240,Western Addition,San Francisco,CA,USA,37.779559,-122.4298104
+241,Westwood Highlands,San Francisco,CA,USA,,
+242,Westwood Park,San Francisco,CA,USA,,
+243,Yerba Buena,San Francisco,CA,USA,,

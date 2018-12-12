@@ -1,0 +1,372 @@
+,Neighbourhood,City,State,Country,Latitude,Longitude
+0,Downtown Vancouver,Vancouver,BC,Canada,49.283393,-123.11745630000001
+1,West End,Vancouver,BC,Canada,49.28413079999999,-123.1317949
+2,Yaletown,Vancouver,BC,Canada,49.2763217,-123.12095579999999
+3,Coal Harbour,Vancouver,BC,Canada,49.2903749,-123.1292813
+4,Gastown,Vancouver,BC,Canada,49.2836567,-123.10623580000001
+5,"Chinatown, Vancouver",Vancouver,BC,Canada,49.280068,-123.10151599999999
+6,Downtown Eastside,Vancouver,BC,Canada,49.2823992,-123.0994578
+8,Arbutus Ridge,Vancouver,BC,Canada,49.240967700000006,-123.1670008
+9,Dunbar-Southlands,Vancouver,BC,Canada,49.253460100000005,-123.1850439
+10,False Creek,Vancouver,BC,Canada,49.2747506,-123.106131172985
+11,Granville Island,Vancouver,BC,Canada,49.270713,-123.1342858
+12,South Cambie,Vancouver,BC,Canada,49.2466847,-123.120915
+13,Kerrisdale,Vancouver,BC,Canada,49.23467279999999,-123.1553893
+14,Kitsilano,Vancouver,BC,Canada,49.2694099,-123.155267
+15,Marpole,Vancouver,BC,Canada,49.2092233,-123.13614950000002
+16,Oakridge,Vancouver,BC,Canada,49.2308288,-123.13113419999999
+17,Shaughnessy,Vancouver,BC,Canada,49.251862599999995,-123.1380226
+19,West Point Grey,Vancouver,BC,Canada,49.2644843,-123.18543259999998
+20,Commercial Drive,Vancouver,BC,Canada,49.2830942,-123.0703494
+21,Grandview-Woodland,Vancouver,BC,Canada,49.270558799999996,-123.06794170000002
+22,Hastings-Sunrise,Vancouver,BC,Canada,49.2775935,-123.0439199
+23,Kensington-Cedar Cottage,Vancouver,BC,Canada,49.2476321,-123.08420670000001
+24,"Killarney, Vancouver",Vancouver,BC,Canada,49.2242738,-123.04625039999999
+25,Mount Pleasant,Vancouver,BC,Canada,49.263329600000006,-123.0965885
+26,Main Street-Riley Park,Vancouver,BC,Canada,49.25270020000001,-123.10091899999999
+27,Renfrew-Collingwood,Vancouver,BC,Canada,49.2420242,-123.0576794
+28,Riley Park,Vancouver,BC,Canada,49.2474381,-123.10296640000001
+29,Strathcona,Vancouver,BC,Canada,49.279554,-123.0899788
+30,Sunset,Vancouver,BC,Canada,49.2195929,-123.09023859999999
+31,Victoria-Fraserview,Vancouver,BC,Canada,49.2184156,-123.0732871
+32,Dunbar,Vancouver,BC,Canada,49.253460100000005,-123.1850439
+35,Sunset-Victoria-Fraserview,Vancouver,BC,Canada,49.20424570000001,-123.08075931000799
+36,Renfrew-Killarney,Vancouver,BC,Canada,49.2407222,-123.03768390000002
+37,Alamo Square,San Francisco,CA,USA,37.77635720000001,-122.43469357074301
+38,Anza Vista,San Francisco,CA,USA,37.7808364,-122.44314890000001
+39,Ashbury Heights,San Francisco,CA,USA,37.765271000000006,-122.44548200000001
+40,Balboa Park,San Francisco,CA,USA,37.72494875,-122.44480452415199
+41,Balboa Terrace,San Francisco,CA,USA,37.72494875,-122.44480452415199
+42,Bayview,San Francisco,CA,USA,37.728888899999994,-122.3925
+43,Belden Place,San Francisco,CA,USA,37.791744,-122.40388610000001
+44,Bernal Heights,San Francisco,CA,USA,37.741000799999995,-122.4142136
+45,Buena Vista,San Francisco,CA,USA,15.229952800000001,120.5937464291
+46,Castro,San Francisco,CA,USA,37.7608561,-122.43495700000001
+47,Cathedral Hill,San Francisco,CA,USA,37.7918196,-122.41349505173599
+48,Cayuga Terrace,San Francisco,CA,USA,37.73036265,-122.43295673057301
+49,China Basin,San Francisco,CA,USA,37.776329499999996,-122.39183853008998
+50,Chinatown,San Francisco,CA,USA,37.7943011,-122.4063757
+51,Civic Center,San Francisco,CA,USA,37.7795939,-122.41679380000001
+52,Clarendon Heights,San Francisco,CA,USA,37.754773,-122.451485
+53,Cole Valley,San Francisco,CA,USA,37.7658133,-122.4499624
+54,Corona Heights,San Francisco,CA,USA,37.7648857,-122.43936770000002
+55,Cow Hollow,San Francisco,CA,USA,37.797261600000006,-122.4362477
+56,Crocker-Amazon,San Francisco,CA,USA,37.7093777,-122.4385868
+57,Design District,San Francisco,CA,USA,37.768746,-122.400466
+58,Diamond Heights,San Francisco,CA,USA,37.74615485,-122.44127581190901
+59,Dogpatch,San Francisco,CA,USA,37.7606977,-122.38920159999998
+60,Dolores Heights,San Francisco,CA,USA,37.7454352,-122.42447949999999
+61,Duboce Triangle,San Francisco,CA,USA,37.767138200000005,-122.43223
+62,Embarcadero,San Francisco,CA,USA,37.792863700000005,-122.39691200000001
+63,Eureka Valley,San Francisco,CA,USA,37.8095604,-122.42163954376001
+64,Excelsior,San Francisco,CA,USA,37.7217943,-122.43538149999999
+65,Fillmore,San Francisco,CA,USA,37.782352100000004,-122.43257820000001
+66,Financial District,San Francisco,CA,USA,37.793646700000004,-122.3989378
+67,Financial District South,San Francisco,CA,USA,37.793646700000004,-122.3989378
+68,Fisherman's Wharf,San Francisco,CA,USA,37.8091669,-122.4165994
+69,Forest Hill,San Francisco,CA,USA,37.7474307,-122.4635825
+70,Forest Knolls,San Francisco,CA,USA,37.756945,-122.459749
+71,Glen Park,San Francisco,CA,USA,37.7331078,-122.433784055831
+72,Golden Gate Heights,San Francisco,CA,USA,37.75079470000001,-122.4181761
+73,Haight-Ashbury,San Francisco,CA,USA,37.7700148,-122.4469519
+74,Hayes Valley,San Francisco,CA,USA,37.7766853,-122.4229361
+75,Hunters Point,San Francisco,CA,USA,37.726771500000005,-122.37157179999998
+76,India Basin,San Francisco,CA,USA,37.7360416,-122.370526
+77,Ingleside,San Francisco,CA,USA,37.722987200000006,-122.45302720000001
+78,Ingleside Terraces,San Francisco,CA,USA,37.725,-122.46861100000001
+79,Inner Sunset,San Francisco,CA,USA,37.76145,-122.4676432
+80,Islais Creek,San Francisco,CA,USA,37.74671735,-122.38829875937901
+81,Jackson Square,San Francisco,CA,USA,37.796873100000006,-122.4030265
+82,Japantown,San Francisco,CA,USA,37.7855789,-122.42980890000001
+83,Jordan Park,San Francisco,CA,USA,37.784651600000004,-122.4566383
+84,Laguna Honda,San Francisco,CA,USA,37.74797715,-122.459116752451
+85,Lake Street,San Francisco,CA,USA,37.7857054,-122.48623
+86,Lakeside,San Francisco,CA,USA,37.7307481,-122.47532900620001
+87,Lakeshore,San Francisco,CA,USA,37.7330369,-122.490249388431
+88,Laurel Heights,San Francisco,CA,USA,37.78399405,-122.451050712939
+89,Lincoln Manor,San Francisco,CA,USA,37.780556,-122.49783300000001
+90,Little Hollywood,San Francisco,CA,USA,37.711437,-122.39848300000001
+91,Little Russia,San Francisco,CA,USA,37.7188787,-122.43150700000001
+92,Little Saigon,San Francisco,CA,USA,37.7843156,-122.4163481
+93,Lone Mountain,San Francisco,CA,USA,37.7790963,-122.4519159
+94,Lower Haight,San Francisco,CA,USA,37.7719261,-122.43247912748899
+95,Lower Pacific Heights,San Francisco,CA,USA,37.7857666,-122.43890420000001
+96,Lower Nob Hill,San Francisco,CA,USA,37.789008,-122.413669
+97,Marina District,San Francisco,CA,USA,37.8029843,-122.43747150000002
+98,Merced Heights,San Francisco,CA,USA,37.7175067,-122.47028145
+99,Merced Manor,San Francisco,CA,USA,37.732583,-122.478472
+100,Midtown Terrace,San Francisco,CA,USA,37.75180225,-122.455397402899
+101,Mid-Market,San Francisco,CA,USA,37.780687,-122.411073
+102,Miraloma Park,San Francisco,CA,USA,37.7386717,-122.449327000318
+103,Mission Bay,San Francisco,CA,USA,37.770774200000005,-122.3911712
+104,Mission District,San Francisco,CA,USA,37.75993,-122.4191376
+105,Mission Dolores,San Francisco,CA,USA,37.7597203,-122.42713229523899
+106,Mission Terrace,San Francisco,CA,USA,37.7765456,-122.394836502311
+107,Monterey Heights,San Francisco,CA,USA,37.733468,-122.46184
+108,Mount Davidson,San Francisco,CA,USA,37.7382643,-122.4533047
+109,Nob Hill,San Francisco,CA,USA,37.7932622,-122.415249
+110,Noe Valley,San Francisco,CA,USA,37.7515906,-122.4320814
+111,North Beach,San Francisco,CA,USA,37.8011749,-122.4090021
+112,North of Panhandle,San Francisco,CA,USA,37.7784081,-122.4425992
+113,Oceanview,San Francisco,CA,USA,37.71365120000001,-122.45748300000001
+115,Pacific Heights,San Francisco,CA,USA,37.792717100000004,-122.43564450000001
+116,Parkmerced,San Francisco,CA,USA,37.71717615,-122.478947319744
+117,Parkside,San Francisco,CA,USA,37.73836365,-122.483982014401
+118,Parnassus,San Francisco,CA,USA,37.7635131,-122.45780559999999
+119,Polk Village,San Francisco,CA,USA,37.7849729,-122.41957009999999
+120,Portola,San Francisco,CA,USA,37.726379,-122.4085514
+121,Portola Place,San Francisco,CA,USA,37.7322912,-122.4142521
+122,Potrero Hill,San Francisco,CA,USA,37.7565834,-122.3991374
+123,Presidio,San Francisco,CA,USA,37.798745600000004,-122.464588924107
+124,Presidio Heights,San Francisco,CA,USA,37.7887511,-122.45302659999999
+125,Richmond District,San Francisco,CA,USA,37.7806432,-122.47259640000001
+126,Rincon Hill,San Francisco,CA,USA,37.7852068,-122.3919152
+127,Russian Hill,San Francisco,CA,USA,37.7977066,-122.41497120000001
+128,Saint Francis Wood,San Francisco,CA,USA,37.7346534,-122.46802720000001
+129,Sea Cliff,San Francisco,CA,USA,37.787521999999996,-122.48968300000001
+130,Sherwood Forest,San Francisco,CA,USA,37.7361326,-122.4537756
+131,Silver Terrace,San Francisco,CA,USA,37.73385379999999,-122.40002820000001
+132,South Beach,San Francisco,CA,USA,37.77981389999999,-122.3911499
+133,South of Market,San Francisco,CA,USA,37.7808925,-122.40095179999999
+134,South Park,San Francisco,CA,USA,37.7815898,-122.393974669315
+135,Sunnydale,San Francisco,CA,USA,37.7094177,-122.4048752
+136,Sunnyside,San Francisco,CA,USA,37.73367665,-122.44749111491001
+137,Sunset District,San Francisco,CA,USA,37.753541799999994,-122.49524950000001
+138,Telegraph Hill,San Francisco,CA,USA,37.8027297,-122.40585149999998
+139,Tenderloin,San Francisco,CA,USA,37.7842493,-122.4139933
+140,Treasure Island,San Francisco,CA,USA,37.8233541,-122.370153102287
+141,Twin Peaks,San Francisco,CA,USA,37.75464,-122.44648000000001
+142,Union Square,San Francisco,CA,USA,37.7879363,-122.40751740318001
+143,University Mound,San Francisco,CA,USA,37.72388660000001,-122.41059380000002
+144,Upper Market,San Francisco,CA,USA,37.752911,-122.444203
+145,Visitacion Valley,San Francisco,CA,USA,37.712131899999996,-122.40971280000001
+146,Vista del Mar,San Francisco,CA,USA,37.778162,-122.507689
+147,West Portal,San Francisco,CA,USA,37.7412161,-122.465708455646
+148,Western Addition,San Francisco,CA,USA,37.779559000000006,-122.42981040000001
+149,Westwood Highlands,San Francisco,CA,USA,37.7347,-122.456854
+150,Westwood Park,San Francisco,CA,USA,37.727585499999996,-122.459049
+151,Yerba Buena,San Francisco,CA,USA,37.78465005,-122.402344789898
+152,Dobong-gu,Seoul,Gyeonggi,South Korea,37.69079,127.04529
+153,Dongdaemun-gu,Seoul,Gyeonggi,South Korea,37.5831859,127.0551056
+154,Dongjak-gu,Seoul,Gyeonggi,South Korea,37.5030558,126.9547363
+155,Eunpyeong-gu,Seoul,Gyeonggi,South Korea,37.6164045,126.9288575
+156,Gangbuk-gu,Seoul,Gyeonggi,South Korea,37.6404953,127.009235
+157,Gangdong-gu,Seoul,Gyeonggi,South Korea,37.5470704,127.1419035
+158,Gangnam-gu,Seoul,Gyeonggi,South Korea,37.51787265,127.056771901232
+159,Gangseo-gu,Seoul,Gyeonggi,South Korea,37.5583396,126.832201
+160,Geumcheon-gu,Seoul,Gyeonggi,South Korea,37.44748,126.8972953
+161,Guro-gu,Seoul,Gyeonggi,South Korea,37.413396,126.839368
+162,Gwanak-gu,Seoul,Gyeonggi,South Korea,37.4672582,126.9482884
+163,Gwangjin-gu,Seoul,Gyeonggi,South Korea,37.5447483,127.0809426
+164,Jongno-gu,Seoul,Gyeonggi,South Korea,37.58752,126.96933
+165,Jung-gu,Seoul,Gyeonggi,South Korea,37.5636559,126.9975097
+166,Jungnang-gu,Seoul,Gyeonggi,South Korea,37.5979565,127.0926658
+167,Mapo-gu,Seoul,Gyeonggi,South Korea,37.566571,126.9015317
+168,Nowon-gu,Seoul,Gyeonggi,South Korea,37.632971999999995,127.075034
+169,Seocho-gu,Seoul,Gyeonggi,South Korea,37.4791104,127.0153487
+170,Seodaemun-gu,Seoul,Gyeonggi,South Korea,37.564786,126.962170253601
+171,Seongbuk-gu,Seoul,Gyeonggi,South Korea,37.598176,127.0216477
+172,Seongdong-gu,Seoul,Gyeonggi,South Korea,37.5505321,127.0415053
+173,Songpa-gu,Seoul,Gyeonggi,South Korea,37.49703,127.15423
+174,Yangcheon-gu,Seoul,Gyeonggi,South Korea,37.5205342,126.83441940000002
+175,Yeongdeungpo-gu,Seoul,Gyeonggi,South Korea,37.5173769,126.9080882
+176,Yongsan-gu,Seoul,Gyeonggi,South Korea,37.5325931,126.9808703
+177,Kempegowda,Bengaluru,KA,India,12.97371755,77.5781189767418
+178,Chowdeshwari,Bengaluru,KA,India,12.92519,77.5880201
+179,Attur,Bengaluru,KA,India,13.1074705,77.5656853
+180,Yelahanka Satellite,Bengaluru,KA,India,13.0952313,77.5942963
+181,Jakkur,Bengaluru,KA,India,13.0784743,77.6068938
+182,Thanisandra,Bengaluru,KA,India,13.054713,77.6339258
+183,Byatarayanapura,Bengaluru,KA,India,13.06207355,77.5963916436534
+184,Kodigehalli,Bengaluru,KA,India,13.0601125,77.5767725
+185,Vidyaranyapura,Bengaluru,KA,India,13.0766407,77.5577315
+186,Doddabommasandra,Bengaluru,KA,India,13.0626483,77.5652430384761
+187,Kuvempu Nagar,Bengaluru,KA,India,13.07319265,77.541713406882
+188,Jalahalli West,Bengaluru,KA,India,13.0533332,77.5306036
+189,Mallasandra,Bengaluru,KA,India,13.05402415,77.5151750738672
+190,Bagalagunte,Bengaluru,KA,India,13.0564758,77.507324
+191,T-Dasarahalli,Bengaluru,KA,India,13.04514135,77.514789427294
+192,Jalahalli,Bengaluru,KA,India,13.0464531,77.5483803
+193,Jaya Prakash Narayana Park,Bengaluru,KA,India,13.034724,77.550875
+194,Radhakrishna Temple,Bengaluru,KA,India,13.0336871,77.5756645259025
+195,Sanjay Nagar,Bengaluru,KA,India,12.9578658,77.6958748
+196,Ganga Nagar,Bengaluru,KA,India,13.0232471,77.5883569
+197,Hebbal,Bengaluru,KA,India,13.0382184,77.5919
+198,Vishwanath Nagenahalli,Bengaluru,KA,India,13.0340104,77.6077039775276
+199,Nagavara,Bengaluru,KA,India,13.0314358,77.6175923120583
+200,HBR Layout,Bengaluru,KA,India,13.0358698,77.6323597
+201,Horamavu,Bengaluru,KA,India,13.0273312,77.6601508
+202,Ramamurthy Nagar,Bengaluru,KA,India,13.0120218,77.6777817
+203,Banaswadi,Bengaluru,KA,India,13.0141618,77.6518539
+204,Kammanahalli,Bengaluru,KA,India,13.00796435,77.6366701521896
+205,Kacharakanahalli,Bengaluru,KA,India,13.017657,77.632564
+206,Kadugondanahalli,Bengaluru,KA,India,13.0207907,77.6190042
+207,Kushal Nagar,Bengaluru,KA,India,13.01473975,77.615255796662
+208,Kavalbyrasandra,Bengaluru,KA,India,13.0314536,77.6131137
+209,Manorayanapalya,Bengaluru,KA,India,13.0251093,77.5964414162158
+210,Gangenahalli,Bengaluru,KA,India,13.0174259,77.5878825975198
+211,Aramane Nagar,Bengaluru,KA,India,13.0303684,77.5698376
+212,Mathikere,Bengaluru,KA,India,13.0328884,77.557374
+213,Yeshwanthpur,Bengaluru,KA,India,13.0159579,77.5451161845771
+214,HMT Ward,Bengaluru,KA,India,13.0304417,77.5335905709489
+215,Chokkasandra,Bengaluru,KA,India,13.0381748,77.5075380582519
+216,Nagasandra,Bengaluru,KA,India,13.0479497,77.5001349
+217,Peenya Industrial Area,Bengaluru,KA,India,13.02940355,77.5339316686637
+218,Lakshmidevi Nagar,Bengaluru,KA,India,13.0155385,77.5261972
+219,Nandini Layout,Bengaluru,KA,India,13.0104064,77.5378032
+220,Marappana Palya,Bengaluru,KA,India,13.0181452,77.5454603106383
+221,Malleshwaram,Bengaluru,KA,India,13.0027353,77.5703253
+222,Jayachamarajendra Nagar,Bengaluru,KA,India,13.01562075,77.5952206517462
+223,Devara Jeevanahalli,Bengaluru,KA,India,13.01582965,77.6031117223035
+224,Muneshwara Nagar,Bengaluru,KA,India,13.01408115,77.6114744157145
+225,Lingarajapuram,Bengaluru,KA,India,13.0117678,77.6278288
+226,Benniganahalli,Bengaluru,KA,India,12.9949194,77.6626028
+227,Vijinapura,Bengaluru,KA,India,13.0356239,77.570993703443
+228,K.R.Puram,Bengaluru,KA,India,13.01706845,77.6989098433186
+229,Basavanapura,Bengaluru,KA,India,13.01790255,77.7206145472254
+230,Hoodi,Bengaluru,KA,India,12.9919033,77.7162015
+231,Devasandra,Bengaluru,KA,India,13.00119755,77.6881933519413
+232,A.Narayanapura,Bengaluru,KA,India,12.9931945,77.6703770295785
+233,C.V.Raman Nagar,Bengaluru,KA,India,12.9856478,77.6649767
+234,Binnamangala,Bengaluru,KA,India,12.9839881,77.6416769
+235,Maruthi Seva Nagar,Bengaluru,KA,India,13.00056075,77.6300082048023
+236,Sagayarapuram,Bengaluru,KA,India,13.004216,77.6158048
+237,S.K.Garden,Bengaluru,KA,India,13.00556205,77.6083560282609
+238,Ramaswamy Palya,Bengaluru,KA,India,13.0097235,77.6353198
+239,Jayamahal,Bengaluru,KA,India,12.9988116,77.5975789
+240,Rajamahal,Bengaluru,KA,India,13.0017472,77.5783063288645
+241,Maruthi Nagar,Bengaluru,KA,India,12.9746062,77.6756305
+242,Subramanya Nagar,Bengaluru,KA,India,13.0080089,77.557241141242
+243,Nagapura,Bengaluru,KA,India,13.0020996,77.5446959
+244,Mahalakshimpuram,Bengaluru,KA,India,13.0071611,77.5403098677824
+245,Laggere,Bengaluru,KA,India,13.0110786,77.522013
+246,Rajagopala Nagar,Bengaluru,KA,India,13.017559,77.513462
+247,Hegganahalli,Bengaluru,KA,India,12.99940895,77.5017649523795
+248,Herohalli,Bengaluru,KA,India,12.98227705,77.4831534501811
+249,Kottigepalya,Bengaluru,KA,India,12.9845494,77.5118053
+250,BEML Layout,Bengaluru,KA,India,12.9599662,77.7192064
+251,Shankar Matt,Bengaluru,KA,India,13.000735,77.5344566625835
+252,Gayithri Nagar,Bengaluru,KA,India,12.99784175,77.5620283835788
+253,Dattatreya Temple,Bengaluru,KA,India,12.92479825,77.5401435953887
+254,Pulikeshinagar,Bengaluru,KA,India,12.9948646,77.6118162234081
+255,Sarvagna Nagar,Bengaluru,KA,India,12.99068895,77.6333585371539
+256,Hoysala Nagar,Bengaluru,KA,India,12.9802093,77.6273767
+257,Mahadevpura,Bengaluru,KA,India,12.99678075,77.692813
+258,Garudacharpalya,Bengaluru,KA,India,12.993425,77.7005156
+259,Kadugodi,Bengaluru,KA,India,12.9985767,77.7609716
+260,Whitefield,Bengaluru,KA,India,12.9696365,77.7497448
+261,Doddanekkundi,Bengaluru,KA,India,12.9716761,77.6936357
+262,Marathahalli,Bengaluru,KA,India,12.9552572,77.6984163
+263,HAL Airport,Bengaluru,KA,India,12.95146575,77.6706174862667
+264,Jeevanbhima Nagar,Bengaluru,KA,India,12.96486115,77.6511996087822
+265,Jogupalya,Bengaluru,KA,India,12.9746882,77.628026
+266,Ulsoor,Bengaluru,KA,India,12.9778793,77.6246697
+267,Bharathi Nagar,Bengaluru,KA,India,13.13847625,77.6204989709889
+268,Shivaji Nagar,Bengaluru,KA,India,12.98915835,77.6060891753961
+269,Vasanth Nagar,Bengaluru,KA,India,12.98872125,77.5851687760182
+270,Gandhi Nagar,Bengaluru,KA,India,12.9771534,77.5784005
+271,Subhash Nagar,Bengaluru,KA,India,12.98266705,77.5695394979778
+272,Okalipuram,Bengaluru,KA,India,12.98204705,77.5642294415321
+273,Dayananda Nagar,Bengaluru,KA,India,12.99102465,77.5645193069205
+274,Prakashnagar,Bengaluru,KA,India,12.992555,77.558054
+275,Rajaji Nagar,Bengaluru,KA,India,12.9882338,77.554883
+276,Basaveshwara Nagar,Bengaluru,KA,India,12.9932739,77.5388099
+277,Kamakshipalya,Bengaluru,KA,India,12.9823617,77.5226376
+278,Vrisabhavathi Nagar,Bengaluru,KA,India,12.9898102,77.5259711566274
+279,Kaveripura,Bengaluru,KA,India,12.9798837,77.5257491555701
+280,Govindaraja Nagar,Bengaluru,KA,India,12.9779714,77.5389134
+281,Agrahara Dasarahalli,Bengaluru,KA,India,12.9809577,77.5398282229079
+282,Dr.Rajkumar Ward,Bengaluru,KA,India,12.9610523,77.6387513
+283,Shivanagara,Bengaluru,KA,India,12.9889486,77.5499608709171
+284,Sriramamandir,Bengaluru,KA,India,12.9839931,77.5546087120734
+285,Chickpete,Bengaluru,KA,India,12.9708285,77.5765191358639
+286,Sampangiram Nagar,Bengaluru,KA,India,12.97587815,77.5906011991715
+287,Shantala Nagar,Bengaluru,KA,India,12.9707847,77.6069335263411
+288,Domlur,Bengaluru,KA,India,12.9624669,77.6381958
+289,Konena Agrahara,Bengaluru,KA,India,12.9589442,77.659719
+290,Agaram,Bengaluru,KA,India,12.94570355,77.6378856927582
+291,Vannarpet,Bengaluru,KA,India,12.9535733,77.6213072444955
+292,Neelasandra,Bengaluru,KA,India,12.95763985,77.6141522686171
+293,Shanthi Nagar,Bengaluru,KA,India,12.95825395,77.6025706924521
+294,Sudham Nagara,Bengaluru,KA,India,12.96019005,77.588612896663
+295,Dharmaraya Swamy Temple,Bengaluru,KA,India,12.96552105,77.5831867117935
+296,Cottonpet,Bengaluru,KA,India,12.9697055,77.5680953
+297,Binnipete,Bengaluru,KA,India,12.9722971,77.5596776102974
+298,Kempapura Agrahara,Bengaluru,KA,India,12.970048,77.553323
+299,Vijayanagar,Bengaluru,KA,India,12.9718886,77.5457888388713
+300,Hosahalli,Bengaluru,KA,India,12.9680122,77.5451641270042
+301,Marenahalli,Bengaluru,KA,India,12.9182594,77.5916651
+302,Maruthi Mandira Ward,Bengaluru,KA,India,12.9676787,77.5362221
+303,Moodalapalya,Bengaluru,KA,India,12.9706816,77.5248635
+304,Nagarbhavi,Bengaluru,KA,India,12.9651008,77.5078635
+305,Jnana Bharathi,Bengaluru,KA,India,12.943935,77.508664667458
+306,Ullalu,Bengaluru,KA,India,12.94620565,77.4874711541991
+307,Nayandahalli,Bengaluru,KA,India,12.9413253,77.5212118
+308,Attiguppe,Bengaluru,KA,India,12.9578718,77.5338849
+309,Hampi Nagar,Bengaluru,KA,India,12.9609115,77.5358407
+310,Bapuji Nagar,Bengaluru,KA,India,12.9543211,77.5396967
+311,Padarayanapura,Bengaluru,KA,India,12.9638007,77.5475230634653
+312,Jagajivanaramnagar,Bengaluru,KA,India,12.9605213,77.551666911402
+313,Rayapuram,Bengaluru,KA,India,12.96486985,77.5565623265272
+314,Chalavadipalya,Bengaluru,KA,India,12.96487165,77.5650857843018
+315,K.R.Market,Bengaluru,KA,India,12.965718,77.5762705372058
+316,Chamrajpet,Bengaluru,KA,India,12.9569966,77.5633682
+317,Azad Nagar,Bengaluru,KA,India,12.9570583,77.5512819
+318,Sunkenahalli,Bengaluru,KA,India,12.9482391,77.5690000044855
+319,Vishveshwara Puram,Bengaluru,KA,India,12.950542,77.5830491877167
+320,Siddapura,Bengaluru,KA,India,12.9542596,77.7309743
+321,Hombegowda Nagar,Bengaluru,KA,India,12.9791198,77.5912997
+322,Lakkasandra,Bengaluru,KA,India,12.94097555,77.6031642232039
+323,Adugodi,Bengaluru,KA,India,12.9428472,77.6104155
+324,Ejipura,Bengaluru,KA,India,12.945245,77.6269144
+325,Varthur,Bengaluru,KA,India,12.9406152,77.7469937
+326,Bellandur,Bengaluru,KA,India,12.9791198,77.5912997
+327,Koramangala,Bengaluru,KA,India,12.9340114,77.6222304
+328,Suddagunte Palya,Bengaluru,KA,India,12.9301185,77.6076491237454
+329,Jayanagar,Bengaluru,KA,India,12.9292731,77.5824229
+330,Basavangudi,Bengaluru,KA,India,12.9422105,77.5741507
+331,Hanumantha Nagar,Bengaluru,KA,India,12.940641,77.5635429
+332,Srinagar,Bengaluru,KA,India,12.9438817,77.5541768
+333,Gali Anjenaya Temple,Bengaluru,KA,India,12.9506709,77.5442153694421
+334,Deepanjali Nagar,Bengaluru,KA,India,12.94387765,77.5399251065871
+335,Kengeri,Bengaluru,KA,India,12.9199402,77.4833485
+336,Rajarajeshwari Nagar,Bengaluru,KA,India,12.9274278,77.5153722
+337,Hosakerehalli,Bengaluru,KA,India,12.9301881,77.5378332
+338,Girinagar,Bengaluru,KA,India,12.9401439,77.5444995
+339,Katriguppe,Bengaluru,KA,India,12.9280952,77.5488835
+340,Vidyapeeta ward,Bengaluru,KA,India,12.9328131,77.5599900208705
+341,Ganesh Mandir ward,Bengaluru,KA,India,12.92388415,77.5624011948393
+342,Karisandra,Bengaluru,KA,India,12.922817,77.5718076760436
+343,Yediyur,Bengaluru,KA,India,13.1312237,77.6957681
+344,Pattabhiram Nagar,Bengaluru,KA,India,12.9250436,77.5884063749282
+345,Byrasandra,Bengaluru,KA,India,12.9329917,77.5896014
+346,Jayanagar East,Bengaluru,KA,India,12.933659,77.5909242
+347,Gurappanapalya,Bengaluru,KA,India,12.922309,77.6045399809144
+348,Madiwala,Bengaluru,KA,India,12.9201105,77.6206606
+349,Jakkasandra,Bengaluru,KA,India,12.92065895,77.6295484972002
+350,HSR Layout,Bengaluru,KA,India,12.9127356,77.6380054
+351,Bommanahalli,Bengaluru,KA,India,12.9089453,77.6239038
+352,BTM Layout,Bengaluru,KA,India,12.9151772,77.6102821
+353,J.P.Nagar,Bengaluru,KA,India,12.9094922,77.5967385573177
+354,Sarakki,Bengaluru,KA,India,12.9079686,77.5831268961247
+355,Shakambari Nagar,Bengaluru,KA,India,12.9170298,77.5797411184072
+356,Banashankari Temple Ward,Bengaluru,KA,India,12.91265135,77.570032281772
+357,Kumaraswamy Layout,Bengaluru,KA,India,12.9068169,77.5635247362134
+358,Padmanabha Nagar,Bengaluru,KA,India,12.916279,77.5560752
+359,Chikkalasandra,Bengaluru,KA,India,12.9121916,77.5476337
+360,Uttarahalli,Bengaluru,KA,India,12.9055682,77.5455438
+361,Yelachenahalli,Bengaluru,KA,India,12.897971,77.5700846
+362,Jaraganahalli,Bengaluru,KA,India,12.9027461,77.5755532051991
+363,Puttenahalli,Bengaluru,KA,India,12.895432,77.5806991
+364,Bilekahalli,Bengaluru,KA,India,12.9002744,77.6008782
+365,Hongasandra,Bengaluru,KA,India,12.8975365,77.628075265942
+366,Mangammanapalya,Bengaluru,KA,India,12.8957595,77.6457011947807
+367,Singasandra,Bengaluru,KA,India,12.882744,77.648678
+368,Begur,Bengaluru,KA,India,12.8633887,77.613011205039
+369,Arakere,Bengaluru,KA,India,12.87847015,77.6041791138253
+370,Gottigere,Bengaluru,KA,India,12.8565317,77.5877237
+371,Konanakunte,Bengaluru,KA,India,12.8854267,77.5669172
+372,Teacher's Colony,Bengaluru,KA,India,12.9188265,77.6341185
+373,Vasanthapura,Bengaluru,KA,India,12.8964054,77.5522621
+374,Hemmigepura,Bengaluru,KA,India,12.93104555,77.508580497279
+375,Gantiganahalli,Bengaluru,KA,India,13.3600207,77.6032617
